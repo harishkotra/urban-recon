@@ -1,8 +1,44 @@
+# Normal Web Exclusions
 node_modules/
-build/
 dist/
-coverage/
+dist-ssr/
+*.local
 .DS_Store
-*.log
-.env*
-!.env.example
+
+# Logs and coverage
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+coverage/
+
+# IDEs and Tools
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Agent / Brain Assets
+.gemini/
+brain/
+tmp/
+*.jpg
+*.png
+*.webp
+!public/vite.svg
+
+# Scraping / Local Script Remains
+*.cjs
+streetview-dl/
+
+social_content.md
+technical_blog_prison_break_ai.md 

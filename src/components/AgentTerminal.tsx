@@ -86,7 +86,7 @@ const AgentTerminal: React.FC<AgentTerminalProps> = ({
             >
               <Cpu size={48} className="text-[#00ff00]" />
             </motion.div>
-            <span className="pixel-text text-[#00ff00] animate-pulse">THINKING...</span>
+            <span className="pixel-text text-[#00ff00]">THINKING...</span>
           </div>
         </div>
       )}
