@@ -2,7 +2,12 @@
 
 **Urban Recon** is a specialized city recognition challenge where an AI vision agent identifies world cities based on dynamic, label-free OpenStreetMap blueprints. By analyzing urban planning signatures—radial street layouts, geometric grids, and canal systems—the agent attempts to geolocate itself with high precision.
 
-![Urban Recon Header](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
+<img width="2182" height="1313" alt="screencapture-localhost-3000-2026-03-08-17_51_03" src="https://github.com/user-attachments/assets/21462795-1620-48c8-97bd-7a62e1a23eef" />
+<img width="2182" height="1284" alt="screencapture-localhost-3000-2026-03-08-17_50_53" src="https://github.com/user-attachments/assets/d40e44ac-c4ef-4639-8e34-081e2b3b7e3e" />
+<img width="2182" height="1279" alt="screencapture-localhost-3000-2026-03-08-17_50_47" src="https://github.com/user-attachments/assets/dc2b034c-dcad-4640-9f05-431e6d35a921" />
+<img width="2182" height="1279" alt="screencapture-localhost-3000-2026-03-08-17_50_38" src="https://github.com/user-attachments/assets/3fca9ffd-a166-4da8-98ee-8095d2cdc86b" />
+<img width="2182" height="1279" alt="screencapture-localhost-3000-2026-03-08-17_50_23" src="https://github.com/user-attachments/assets/ad886a13-ea76-4f59-b631-152c2b57a706" />
+
 
 ## 🌟 Features
 
@@ -44,7 +49,7 @@ graph TD
 
 1. **Clone & Install**:
    ```bash
-   git clone https://github.com/your-repo/urban-recon.git
+   git clone https://github.com/harishkotra/urban-recon.git
    cd urban-recon
    npm install
    ```
@@ -70,6 +75,3 @@ We welcome contributions! To fork and add features:
 - [ ] **Density Heatmaps**: Add a layer for population or zoning density.
 - [ ] **Historical Maps**: Toggle between modern OSM and 19th-century planning maps.
 - [ ] **Agent Persona Selection**: Choose between "Historian", "Urban Planner", or "Spy".
-
-## 🛡️ License
-MIT License - See [LICENSE](LICENSE) for details.
