@@ -1,0 +1,5 @@
+{
+  "name": "Pixel GeoAgent",
+  "description": "A retro-style Geoguesser where you can watch the Qwen2.5-VL agent solve locations using LM Studio.",
+  "requestFramePermissions": []
+}
